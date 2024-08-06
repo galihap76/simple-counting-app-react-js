@@ -1,8 +1,8 @@
-# React + Vite
+## Simple Counting App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Membangun aplikasi web sederhana dengan library react js.
 
-Currently, two official plugins are available:
+## Screenshot
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![image](https://github.com/user-attachments/assets/e15f8506-4d2e-40ed-b448-c7f62e67c97b)
+
